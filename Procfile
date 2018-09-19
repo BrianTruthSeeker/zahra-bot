@@ -1,1 +1,1 @@
-worker: node bot.js zahra-bot
+worker: node bot.js
